@@ -1,0 +1,13 @@
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\obj\Debug\Spacebar Prediction.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\SPrediction.dll.config
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\SPrediction.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\SPrediction.pdb
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\EloBuddy.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\PortAIO.Common.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\SharpDX.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\obj\Debug\SPrediction.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\Spacebar Prediction\obj\Debug\SPrediction.pdb

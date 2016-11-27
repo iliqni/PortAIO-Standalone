@@ -1,0 +1,12 @@
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\obj\Debug\DZLib.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\DZLib.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\DZLib.pdb
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\EloBuddy.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\PortAIO.Common.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\SharpDX.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\obj\Debug\DZLib.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\DZLib\obj\Debug\DZLib.pdb

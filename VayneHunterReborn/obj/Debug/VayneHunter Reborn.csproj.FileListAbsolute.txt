@@ -1,0 +1,19 @@
+C:\Users\Danny\Desktop\Output\LeagueSharp-master\VayneHunterReborn\bin\Release\VayneHunter Reborn.exe.config
+C:\Users\Danny\Desktop\Output\LeagueSharp-master\VayneHunterReborn\obj\Debug\VayneHunter Reborn.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\VayneHunter Reborn.exe.config
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\obj\Debug\VayneHunter Reborn.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\VayneHunter Reborn.exe
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\VayneHunter Reborn.pdb
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\DZLib.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\EloBuddy.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\EloBuddy.SDK.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\Newtonsoft.Json.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\PortAIO.Common.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\SharpDX.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\SPrediction.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\DZLib.pdb
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\bin\Release\SPrediction.pdb
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\obj\Debug\VayneHunter Reborn.exe
+C:\Users\Danny\Desktop\PortAIO-Standalone\VayneHunterReborn\obj\Debug\VayneHunter Reborn.pdb
